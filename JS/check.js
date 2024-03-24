@@ -25,9 +25,9 @@ function checkHTTPStatusCanteenHouduan(url) {
     xhr1.send();
 }
 $(document).ready(function () {
-    var url = 'https://dajgzd-aktdio-5500.preview.myide.io';
+    var url = 'https://ovmjfa-yxuwnc-80.preview.myide.io';
     checkHTTPStatusCanteenQianduan(url);
-    url = 'https://dajgzd-aktdio-3033.preview.myide.io'
+    url = 'https://ovmjfa-yxuwnc-3033.preview.myide.io'
     checkHTTPStatusCanteenHouduan(url);
 });
 
